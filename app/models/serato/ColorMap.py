@@ -18,7 +18,14 @@ class ColorMap:
         "FF8C00": "DB4E27",  # some orange that somehow was not detected by the palette
         "E62828": "C02626",
         "FFFFFF": "C02626",  # white is something internal to the app, but we will convert it to red because reasons
-        "FF127B": "C71136"
+        "FF127B": "C71136",
+        "7DC13D": "7DC13D",
+        "B93CFF": "B93CFF",
+        "508CFF": "508CFF",
+        "5073FF": "5073FF",
+        "E1AA00": "E1AA00",
+        "45ACDB": "45ACDB",
+        "B4C805": "B4C805"
     }
 
     @classmethod
